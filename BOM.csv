@@ -1,14 +1,14 @@
 ﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
 Official rasberry pi power supply,1,https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-micro-usb-plug/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWdSzo2fxupdSGi6qdbPJ3BcG&gclid=CjwKCAjwiY_GBhBEEiwAFaghvt8vDJ75r145lmzbU0FDC381i1wG6QmWgFJ65b8ZBWq6iilWig_guhoC-6YQAvD_BwE, This is to make sure that the rasberri Pi 4 is getting adequate power supply and making sure that it doesn't get shut off
 Smartelex 2.4″ TFT Display (240×320),1,https://robu.in/product/smartelex-2-4-tft-resistive-touch-display-240x320/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWeYMJj4Z5cooZwO_8905OIKc&gclid=CjwKCAjwiY_GBhBEEiwAFaghvqIJrwMW_kEXIOVf9NEyDsxv2NfUGxmu5PReg0job0QxwIKEN6SpJRoCpkoQAvD_BwE, Connecting it to the rasberry pi4 and it will help us see the temperature time left for it to be incubated etc
-MQ-135,,,
-DHT22,,,
-BH1750,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+MQ-135,1,https://robu.in/product/mq-135-air-quality-gas-detector-sensor-module-for-arduino/, For checking the CO2 levels in the surroundings.
+DHT22,1,https://robu.in/product/dht22-digital-temperature-humidity-sensor-temperature-humidity-module-am2302/, For checming the Temperature and the humidity of the bread
+BH1750,1,https://robu.in/product/gy-302-bh1750-light-intensity-module/, To check the light intensiy which is there upon the bread dough
+DS18B20 Waterproof Probe,1,https://robu.in/product/ds18b20-water-proof-temperature-probe-black-1m-2/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWfYl_8Dt5uzq7JNkVVPrM_0k&gclid=Cj0KCQjw0Y3HBhCxARIsAN7931XKUzaANo6C3bHgV-N3cfgFBZam2hNhGzCfL12GnUJ5tbNwtWEGfaUaAk4HEALw_wcB, For checking the temperature inside the dough
+Servo(MG995),1,https://robu.in/product/towerpro-mg995-servo-high-speed-digital-metal-gear-ball-bearing-torque-12kg-robot-arduino-good-quality180-degree-rotation/, For controlling the spray bottle.
+SD card reader,1,https://robu.in/product/high-speed-micro-sd-card-reader/, For reading the SD card which is there and uploading it with the rasberri pi software.
+Thermoelectric Peltier Refrigeration Cooling System,2,https://robu.in/product/thermoelectric-peltier-refrigeration-cooling-system/#tab-description, This is the body of the Peltier module
+Breadboard,1, https://robu.in/product/transparent-830-points-solderless-breadboard/, This breadboard will serve as a base for extra connections which need to occur
+T cobbler for GPIO,1,https://robocraze.com/products/t-cobbler-with-cable?variant=40192816349337&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=17937704573&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=17931338845&gbraid=0AAAAADgHQvZwHMZ1i6IDhwMAUez6jW11y&gclid=Cj0KCQjw9JLHBhC-ARIsAK4Phcq-hp0oBJndx0gXy5NTwZOreBI7Sqzg9rafOIkIXb20adly8q92u5waAiluEALw_wcB,
+12 volt power supply,1,https://robocraze.com/products/12v-10a-smps-power-supply?srsltid=AfmBOoqDCoFZa8bqHAydmeVUWED33SjU7y1ld2SvRBiXBlIzVv1KM7cD,For powering the components
+Dc jacks2,https://robu.in/product/male-female-2-15-5mm-dc-power-jack-adapter-connector-plug-cctv-camera/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcvhKSCqHahxHLVyWM0pzrLA&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqMbL10vK0tk7cmGgOtMeOzm7OcSME0Bow1w_FRVZaynX1E2ntgCMUaAlXgEALw_wcB,For connecting the wires
