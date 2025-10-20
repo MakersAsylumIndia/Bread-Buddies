@@ -1,4 +1,12 @@
 ﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
+Official rasberry pi power supply,1,https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-micro-usb-plug/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWdSzo2fxupdSGi6qdbPJ3BcG&gclid=CjwKCAjwiY_GBhBEEiwAFaghvt8vDJ75r145lmzbU0FDC381i1wG6QmWgFJ65b8ZBWq6iilWig_guhoC-6YQAvD_BwE, This is to make sure that the rasberri Pi 4 is getting adequate power supply and making sure that it doesn't get shut off
+Smartelex 2.4″ TFT Display (240×320),1,https://robu.in/product/smartelex-2-4-tft-resistive-touch-display-240x320/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWeYMJj4Z5cooZwO_8905OIKc&gclid=CjwKCAjwiY_GBhBEEiwAFaghvqIJrwMW_kEXIOVf9NEyDsxv2NfUGxmu5PReg0job0QxwIKEN6SpJRoCpkoQAvD_BwE, Connecting it to the rasberry pi4 and it will help us see the temperature time left for it to be incubated etc
+MQ-135,,,
+DHT22,,,
+BH1750,,,
+,,,
+,,,
+,,,
 ,,,
 ,,,
 ,,,
